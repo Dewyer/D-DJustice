@@ -1,0 +1,9 @@
+F:\Projects\D-DJustice\D-DCore\D-DCore\bin\Debug\netcoreapp2.0\D-DCore.deps.json
+F:\Projects\D-DJustice\D-DCore\D-DCore\bin\Debug\netcoreapp2.0\D-DCore.dll
+F:\Projects\D-DJustice\D-DCore\D-DCore\bin\Debug\netcoreapp2.0\D-DCore.pdb
+F:\Projects\D-DJustice\D-DCore\D-DCore\obj\Debug\netcoreapp2.0\D-DCore.csprojResolveAssemblyReference.cache
+F:\Projects\D-DJustice\D-DCore\D-DCore\obj\Debug\netcoreapp2.0\D-DCore.csproj.CoreCompileInputs.cache
+F:\Projects\D-DJustice\D-DCore\D-DCore\obj\Debug\netcoreapp2.0\D-DCore.AssemblyInfoInputs.cache
+F:\Projects\D-DJustice\D-DCore\D-DCore\obj\Debug\netcoreapp2.0\D-DCore.AssemblyInfo.cs
+F:\Projects\D-DJustice\D-DCore\D-DCore\obj\Debug\netcoreapp2.0\D-DCore.dll
+F:\Projects\D-DJustice\D-DCore\D-DCore\obj\Debug\netcoreapp2.0\D-DCore.pdb

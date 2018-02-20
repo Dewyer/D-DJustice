@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D-DCore", "D-DCore\D-DCore.csproj", "{5F9F6FDB-BFCA-4A4C-84CE-C0B4EF3BB133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D-DConsole", "D-DConsole\D-DConsole.csproj", "{58CEAF5D-E424-4A13-B83A-AE63D50483CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{65D344D5-E2B4-4BBA-BB4E-AB7166FCEF50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9F6FDB-BFCA-4A4C-84CE-C0B4EF3BB133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9F6FDB-BFCA-4A4C-84CE-C0B4EF3BB133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9F6FDB-BFCA-4A4C-84CE-C0B4EF3BB133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9F6FDB-BFCA-4A4C-84CE-C0B4EF3BB133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CEAF5D-E424-4A13-B83A-AE63D50483CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CEAF5D-E424-4A13-B83A-AE63D50483CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CEAF5D-E424-4A13-B83A-AE63D50483CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CEAF5D-E424-4A13-B83A-AE63D50483CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D344D5-E2B4-4BBA-BB4E-AB7166FCEF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D344D5-E2B4-4BBA-BB4E-AB7166FCEF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D344D5-E2B4-4BBA-BB4E-AB7166FCEF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D344D5-E2B4-4BBA-BB4E-AB7166FCEF50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4370DD5F-AE2C-4CF0-8948-D939279C1F43}
+	EndGlobalSection
+EndGlobal

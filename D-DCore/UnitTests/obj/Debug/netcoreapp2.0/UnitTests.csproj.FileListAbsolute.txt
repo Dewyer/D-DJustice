@@ -1,0 +1,16 @@
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+F:\Projects\D-DJustice\D-DCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+F:\Projects\D-DJustice\D-DCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+F:\Projects\D-DJustice\D-DCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+F:\Projects\D-DJustice\D-DCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+F:\Projects\D-DJustice\D-DCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+F:\Projects\D-DJustice\D-DCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\D-DCore.dll
+F:\Projects\D-DJustice\D-DCore\UnitTests\bin\Debug\netcoreapp2.0\D-DCore.pdb

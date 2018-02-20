@@ -1,0 +1,13 @@
+F:\Projects\D-DJustice\D-DCore\D-DConsole\bin\Debug\netcoreapp2.0\D-DConsole.deps.json
+F:\Projects\D-DJustice\D-DCore\D-DConsole\bin\Debug\netcoreapp2.0\D-DConsole.runtimeconfig.json
+F:\Projects\D-DJustice\D-DCore\D-DConsole\bin\Debug\netcoreapp2.0\D-DConsole.runtimeconfig.dev.json
+F:\Projects\D-DJustice\D-DCore\D-DConsole\bin\Debug\netcoreapp2.0\D-DConsole.dll
+F:\Projects\D-DJustice\D-DCore\D-DConsole\bin\Debug\netcoreapp2.0\D-DConsole.pdb
+F:\Projects\D-DJustice\D-DCore\D-DConsole\bin\Debug\netcoreapp2.0\D-DCore.dll
+F:\Projects\D-DJustice\D-DCore\D-DConsole\bin\Debug\netcoreapp2.0\D-DCore.pdb
+F:\Projects\D-DJustice\D-DCore\D-DConsole\obj\Debug\netcoreapp2.0\D-DConsole.csprojResolveAssemblyReference.cache
+F:\Projects\D-DJustice\D-DCore\D-DConsole\obj\Debug\netcoreapp2.0\D-DConsole.csproj.CoreCompileInputs.cache
+F:\Projects\D-DJustice\D-DCore\D-DConsole\obj\Debug\netcoreapp2.0\D-DConsole.AssemblyInfoInputs.cache
+F:\Projects\D-DJustice\D-DCore\D-DConsole\obj\Debug\netcoreapp2.0\D-DConsole.AssemblyInfo.cs
+F:\Projects\D-DJustice\D-DCore\D-DConsole\obj\Debug\netcoreapp2.0\D-DConsole.dll
+F:\Projects\D-DJustice\D-DCore\D-DConsole\obj\Debug\netcoreapp2.0\D-DConsole.pdb
